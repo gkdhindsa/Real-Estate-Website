@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+    font: 'open sans',sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: #304163
+}
+.logo-text{
+    line-height: 0.2em;
+    text-align: center;
+}
+.navbar{
+    margin: 0% 15%;
+}
+.logo{
+    padding-top: 0.5rem;
+}
+.login-text{
+    font-size: 0.9rem;
+    padding-top: 0.5rem;
+}
+.slide img{
+    width: 100%;
+    position: absolute;
+}
+.call-us{
+    z-index: 15;
+    background-color: #304163;
+    color: white;
+    position: relative;
+    padding: 1.2rem;
+    width: 15rem;
+}
+.pop-up{
+    z-index: 15;
+    background-color: rgb(48,65,99, 0.9);
+    color: white;
+    position: absolute;
+    width: 25rem;
+    padding: 3rem;
+    margin-top: 26%;
+}
+h2{
+    font: normal normal bold 1.5em ;
+    color: #304163
+}
+h3{
+    font: normal normal 18px/1.4em 'open sans',sans-serif;
+    color: #5272B2;
+}
+
+hr{
+    color: white;
+    height: 0px;
+    border: 2px solid white;
+}
+.btn{
+    border: 2px solid white;
+    border-radius: 0%;
+}
+.btn-alt{
+    border: 2px solid #5272B2;
+    color: #5272B2;
+    border-radius: 0%;
+    background-color: white;
+    width: 160px;
+    font-size: 0.8rem;
+}
+
+#properties{
+    color: #304163;
+    margin-top: 165vh
+}
+
+.prop-img{
+    padding: 0;
+    margin: 0;
+    height: auto;
+    width: 23rem;
+}
+.prop-text-1{
+    color: #5272B2;
+}
+.bed-text{
+    color: #CBB492;
+}
+.latest-text{
+    color: #616E89;
+}
+.latest-img{
+    width: 18rem;
+}
+.c-light{
+    background-color: #293B5F;
+}
+.c-dark{
+    background-color: #304163;
+}
+.chase
+{
+    padding-bottom: 5rem;
+}
+.king{
+    padding-top: 5rem;
+}
+.blue-text{
+    color: #304163
+}
+.icon{
+    color: #CBB492;
+}
+#parallax{
+    background-image: url("../img/architecture-clouds-daylight-driveway-259588.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+}
