@@ -22,10 +22,7 @@ a{
     font-size: 0.9rem;
     padding-top: 0.5rem;
 }
-.slide img{
-    width: 100%;
-    position: absolute;
-}
+
 .call-us{
     z-index: 15;
     background-color: #304163;
@@ -138,4 +135,7 @@ hr{
 }
 #footer{
     background-color: #CBB492;
+}
+#slider{
+    position: absolute;
 }
