@@ -60,6 +60,7 @@ hr{
 .btn{
     border: 2px solid white;
     border-radius: 0%;
+    color: white
 }
 .btn-alt{
     border: 2px solid #5272B2;
@@ -113,10 +114,28 @@ hr{
     color: #CBB492;
 }
 #parallax{
-    background-image: url("../img/architecture-clouds-daylight-driveway-259588.jpg");
+    background-image: url("../img/architectural-design-architecture-city-contemporary-361530.jpg");
     min-height: 400px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
+    
+    background-size: cover;
+}
+.form-control{
+    border-radius: 0;
+    width: 100%;
+    margin-bottom: 0.5rem;
+    align-self: center;
+}
+.submit{
+    color: white;
+    background-color: #304163;
+    border: none;
+    float: right;
+    padding: 0.2rem 2rem;
+}
+#footer{
+    background-color: #CBB492;
 }
